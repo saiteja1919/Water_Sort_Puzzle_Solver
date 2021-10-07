@@ -99,8 +99,9 @@ if __name__ == '__main__':
 
    tube_values = []
 
-   print("=== Enter space separated colors of tubes(from top to bottom) in different lines ====")
-   print("=== Input empty line for empty tubes ====")
+   print(">> Enter space separated colors of tubes(from top to bottom) in different lines")
+   print(">> Input empty line for empty tubes")
+   print("=== Enter values ===")
    for _ in range(tubes_cnt):
       temp = Tube()
       temp.holds = input().split()[::-1]
