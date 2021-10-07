@@ -1,0 +1,34 @@
+Follow steps in reverse ordrer
+
+Transfer grey color from 1 to 8 
+Transfer deep_green color from 8 to 4 
+Transfer deep_blue color from 6 to 11 
+Transfer orange color from 6 to 3 
+Transfer deep_green color from 6 to 4 
+Transfer pink color from 4 to 9 
+Transfer orange color from 4 to 3 
+Transfer deep_blue color from 3 to 11 
+Transfer grey color from 3 to 1 
+Transfer deep_blue color from 1 to 11 
+Transfer green color from 1 to 7 
+Transfer pink color from 1 to 9 
+Transfer blue color from 9 to 2 
+Transfer grey color from 9 to 3 
+Transfer green color from 3 to 7 
+Transfer red color from 7 to 10 
+Transfer purple color from 7 to 5 
+Transfer blue color from 7 to 2 
+Transfer green color from 6 to 3 
+Transfer orange color from 3 to 4 
+Transfer blue color from 4 to 2 
+Transfer purple color from 2 to 5 
+Transfer grey color from 5 to 9 
+Transfer red color from 5 to 10 
+Transfer purple color from 10 to 2 
+Transfer purple color from 9 to 2 
+Transfer deep_green color from 2 to 8 
+Transfer red color from 8 to 5 
+Transfer deep_green color from 8 to 2 
+Transfer pink color from 5 to 1 
+Transfer deep_blue color from 2 to 11 
+Transfer purple color from 1 to 10 
